@@ -1,0 +1,7 @@
+---
+apiVersion: permissions.azure.com/v1alpha1
+kind: AzPermissions
+metadata:
+  name: resource-group-example
+spec:
+  resource_path: /subscriptions/d64ddb0c-7399-4529-a2b6-037b33265372/resourceGroups/MC_edreed-rg_edreed-aks_westus2
